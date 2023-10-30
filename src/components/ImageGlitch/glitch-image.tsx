@@ -1,7 +1,6 @@
 import classNames from 'classnames';
 import { pickRandomFromRange } from '../../../utils/utils';
 import React, { useEffect } from 'react';
-import 
 
 const INITIAL_WAIT_TIME = 1000;
 const CLEAR_TIME = 100;
