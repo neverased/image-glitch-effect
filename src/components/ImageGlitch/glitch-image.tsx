@@ -96,4 +96,5 @@ const ImageGlitch = ({ src }: ImageGlitchProps) => {
     setGlitchLeft(glitchLeft);
   }
 
+  
 };
